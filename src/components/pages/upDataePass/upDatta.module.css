@@ -1,0 +1,77 @@
+.container{
+
+
+position: absolute;
+width: 730px;
+height: 426px;
+left: 595px;
+top: 104px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.125);
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.title{
+
+/* Update Password */
+
+padding-top: 25px;
+padding-left: 50px;
+
+left: 640px;
+top: 130px;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 48px;
+
+
+color: #212529;
+
+
+
+
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    padding-left: 45px;
+    padding-top: 43px;
+   
+}
+
+.inputContainer input{
+    margin-bottom: 10px;
+margin-top: 10px;
+width: 640px;
+height: 38px;
+left: 640px;
+top: 221px;
+
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.buttonContainer{
+
+width: 640px;
+height: 38px;
+left: 640px;
+top: 447px;
+
+background: #E05433;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.buttonContainer:hover{
+    background: #343A40;
+}

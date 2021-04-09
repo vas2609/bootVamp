@@ -1,0 +1,75 @@
+.page img{
+    height: calc(100vh - 59px);
+    width: 100%;
+}
+
+.headerText{
+    position: absolute;
+    width: 538px;
+    height: 68px;
+    left: 691px;
+    top: 380px;
+  
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+    color: #fff
+
+}
+
+
+.description{
+    position: absolute;
+width: 414px;
+height: 30px;
+left: 753px;
+top: 459px;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 30px;
+text-align: center;
+color: #fff
+}
+
+.input1{
+    position: absolute;
+    width: 540px;
+    height: 38px;
+    left: 405px;
+    top: 505px;
+    
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+.input2 {
+    position: absolute;
+    width: 540px;
+    height: 38px;
+    left: 975px;
+    top: 505px;
+    
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+.button{
+    position: absolute;
+width: 1110px;
+height: 38px;
+left: 405px;
+top: 559px;
+
+background: #E05433;
+border: 1px solid #E05433;
+box-sizing: border-box;
+border-radius: 0px;
+color: #fff
+}

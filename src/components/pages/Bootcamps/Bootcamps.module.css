@@ -1,0 +1,200 @@
+.container{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.buttonContainer{
+    padding: 45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.buttons{
+ 
+width: 35px;
+height: 38px;
+left: 861px;
+top: 823px;
+background: #FFFFFF;
+border: 1px solid #DEE2E6;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.prev{
+  
+    width: 86px;
+    height: 38px;
+    left: 776px;
+    top: 823px;
+    background: #FFFFFF;
+    border: 1px solid #DEE2E6;
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+.next{
+width: 59px;
+height: 38px;
+left: 962px;
+top: 823px;
+background: #FFFFFF;
+border: 1px solid #DEE2E6;
+box-sizing: border-box;
+border-radius: 0px;
+}
+
+button:hover {
+
+    background-color: #E05433;
+    cursor: pointer;
+
+}
+
+.filterContainer{
+margin: 40px 0px -26px;
+display: flex;
+left: 180px;
+position: absolute;
+width: 350px;
+height: 178px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.125);
+box-sizing: border-box;
+border-radius: 0px;
+}
+.header{
+
+position: absolute;
+width: 150px;
+height: 29px;
+left: 200px;
+top: 123px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: #212529;
+
+
+}
+
+.inputContainer{
+    display: flex;
+    padding: 10px;
+}
+
+.input1{
+
+width: 139px;
+height: 38px;
+left: 418px;
+top: 169px;
+
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.input2{
+    margin-left: 15px;
+    width: 139px;
+    height: 38px;
+    left: 586px;
+    top: 169px;
+    
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+.findButton{
+
+width: 308px;
+height: 38px;
+left: 418px;
+top: 223px;
+
+background: #E05433;
+border: 1px solid #E05433;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.container2{
+    display: flex;
+
+
+}
+
+.filterHider{
+
+position: absolute;
+width: 55px;
+height: 29px;
+left: 180px;
+top: 304px;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: #212529;
+
+}
+
+.numberInput1{
+padding: 10px;
+width: 350px;
+height: 38px;
+left: 397px;
+top: 374px;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+}
+
+.numberInput2{
+width: 350px;
+height: 38px;
+left: 397px;
+top: 468px;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+}
+
+.selectContainer{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.sendButton{
+   
+    margin-top: 20px;
+}
+
+.findButton2{
+
+width: 350px;
+height: 38px;
+left: 397px;
+top: 530px;
+
+background: #E05433;
+border: 1px solid #E05433;
+box-sizing: border-box;
+border-radius: 0px;
+
+}

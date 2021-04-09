@@ -1,0 +1,86 @@
+.container{
+    margin: 40px 0px -26px;
+    display: flex;
+    justify-content:center;
+    
+}
+
+
+.card{
+
+    width: 730px;
+    height: 164px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    box-sizing: border-box;
+    border-radius: 0px;
+
+   
+}
+
+.name{
+padding-left: 280px;
+height: 24px;
+left: 1040px;
+top: 303px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #E05433;
+}
+
+.img{
+margin-top: -30px;
+width: 245px;
+height: 162px;
+left: 776px;
+top: 285px;
+
+
+}
+
+.address {
+    margin-top: 10px;
+    white-space: nowrap; 
+    width: 150px;
+    background: #343A40;
+    color: #FFFFFF;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+
+.careers{
+
+margin-top: 10px;
+height: 24px;
+left: 1040px;
+top: 370px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #212529;
+
+
+}
+
+.rateingContainer{
+
+    display: flex;
+    background: #28A745;
+    width: 33px;
+    height: 23px;
+    margin-left: 400px;
+    margin-top: 5px;
+
+}
+.rateing{
+
+color: #FFFFFF;
+margin-left: 2px;
+
+
+}

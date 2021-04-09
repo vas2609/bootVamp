@@ -1,0 +1,254 @@
+.container {
+position: absolute;
+width: 540px;
+height: 818px;
+left: 682px;
+top: 104px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.125);
+box-sizing: border-box;
+border-radius: 0px;
+}
+
+.title{
+
+position: absolute;
+width: 158px;
+height: 48px;
+left: 777px;
+top: 146px;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 48px;
+color: #212529;
+
+}
+
+.description{
+
+position: absolute;
+width: 406px;
+height: 48px;
+left: 727px;
+top: 206px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #212529;
+
+}
+
+.nameFild{
+
+position: absolute;
+width: 42px;
+height: 24px;
+left: 727px;
+top: 269px;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+color: #212529;
+
+}
+
+.nameFild input {
+
+width: 450px;
+height: 38px;
+left: 727px;
+top: 301px;
+
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.emailFild{
+
+position: absolute;
+width: 99px;
+height: 24px;
+left: 727px;
+top: 355px;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+color: #212529;
+
+}
+
+.emailFild input {
+
+width: 450px;
+height: 38px;
+left: 727px;
+top: 387px;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+.passFild{
+    /* Password */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: 727px;
+top: 441px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+color: #212529;
+}
+
+.passFild input {
+width: 450px;
+height: 38px;
+left: 727px;
+top: 473px;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.confirmFild{
+
+position: absolute;
+width: 127px;
+height: 24px;
+left: 727px;
+top: 527px;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+color: #212529;
+
+}
+
+.confirmFild input {
+
+width: 450px;
+height: 38px;
+left: 727px;
+top: 559px;
+background: #FFFFFF;
+border: 1px solid #CED4DA;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.roleContainer{
+
+position: absolute;
+width: 450px;
+height: 122px;
+left: 727px;
+top: 621px;
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.125);
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.roleFild{
+
+position: absolute;
+width: 86px;
+height: 24px;
+left: 748px;
+top: 640px;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+color: #212529;
+
+
+}
+
+.roleSelect1{
+    /* Regular User (Browse, Write reviews, etc) */
+
+position: absolute;
+width: 286px;
+height: 24px;
+left: 768px;
+top: 674px;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 24px;
+color: #212529;
+
+
+}
+
+.roleSelect1 input {
+    margin: 5px;
+}
+
+.roleSelect2{
+
+position: absolute;
+width: 141px;
+height: 24px;
+left: 768px;
+top: 698px;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 24px;
+color: #212529;
+}
+
+.roleSelect2 input {
+    margin: 5px;
+}
+
+.registerButton{
+
+position: absolute;
+width: 450px;
+height: 38px;
+left: 727px;
+top: 823px;
+
+background: #E05433;
+border: 1px solid #E05433;
+box-sizing: border-box;
+border-radius: 0px;
+
+}
+
+.errorContainer{
+
+position: absolute;
+width: 411px;
+height: 48px;
+left: 727px;
+top: 760px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+color: #DC3545;
+
+
+}

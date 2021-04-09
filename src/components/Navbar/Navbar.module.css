@@ -1,0 +1,81 @@
+.wrapp {
+    height: 56px;
+    background-color: #E05433;;
+}
+
+.logo{
+    position: absolute;
+    width: 109px;
+    height: 30px;
+    left: 430px;
+    top: 13px;
+
+
+}
+
+.textLogo{
+    position: absolute;
+    width: 109px;
+    height: 30px;
+    left: 45px;
+    top: 5px;
+    color: #fff;
+}
+
+.login{
+position: absolute;
+width: 44px;
+height: 24px;
+left: 1196px;
+top: 16px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #fff;
+}
+
+.register{
+position: absolute;
+width: 61px;
+height: 24px;
+left: 1276px;
+top: 16px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color:#fff;
+}
+
+.brows{
+position: absolute;
+width: 134px;
+height: 24px;
+left: 1373px;
+top: 16px;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+color:#fff;
+}
+
+.name{
+
+ 
+
+position: absolute;
+
+height: 24px;
+left: 1248px;
+top: 17px;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+color:#fff;
+
+
+}
